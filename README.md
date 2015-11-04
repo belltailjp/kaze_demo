@@ -36,3 +36,9 @@ And a webcamera is needed for `demo.cpp`
 % ./a.out
 ```
 
+## Important Notice
+
+Currently there have been several of improvements introduced to KAZE (like _Accelerated-KAZE_), and it is already implemented in OpenCV3.0 natively.
+Please be noted that my sample code will no longer be maintained and supported.
+Refer [AKAZE local features matching — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/tutorials/features2d/akaze_matching/akaze_matching.html) for more details.
+
