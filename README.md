@@ -7,6 +7,9 @@ _Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison., "KAZE Features," 
 
 And this sample code is developed by @belltailjp personally for the blog article [ECCV2012で発表されたKAZE局所特徴量を試してみた | さかな前線](http://daily.belltail.jp/?p=1352#hs_9bb14cfc32bcc907176d4323f74c92d4_header_5) (Japanese).
 
+![KAZE matcher simulation demo](http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_simulation.png)
+![KAZE matcher interactive demo](http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_demo1.png)
+
 
 ## Requirements
 
