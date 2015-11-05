@@ -7,8 +7,8 @@ _Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison., "KAZE Features," 
 
 And this sample code is developed by @belltailjp personally for the blog article [ECCV2012で発表されたKAZE局所特徴量を試してみた | さかな前線](http://daily.belltail.jp/?p=1352#hs_9bb14cfc32bcc907176d4323f74c92d4_header_5) (Japanese).
 
-![KAZE matcher simulation demo](http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_simulation.png)
-![KAZE matcher interactive demo](http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_demo1.png)
+<img src="http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_simulation.png" alt="KAZE matcher simulation demo" width="400"/>
+<img src="http://daily.belltail.jp/wp-content/uploads/2012/12/20121208_scr_demo1.png" alt="KAZE matcher interactive demo" width="400"/>
 
 
 ## Requirements
@@ -22,6 +22,7 @@ This sample code is confirmed to work on the following configuration:
 - KAZE implementation in the same directory as the sample code
 
 And a webcamera is needed for `demo.cpp`
+
 
 ## How to execute
 
